@@ -1,0 +1,7 @@
+C:\Users\veljko\source\repos\NemanjaZbaVež\NemanjaZbaVež\bin\Debug\NemanjaZbaVež.exe.config
+C:\Users\veljko\source\repos\NemanjaZbaVež\NemanjaZbaVež\bin\Debug\NemanjaZbaVež.exe
+C:\Users\veljko\source\repos\NemanjaZbaVež\NemanjaZbaVež\bin\Debug\NemanjaZbaVež.pdb
+C:\Users\veljko\source\repos\NemanjaZbaVež\NemanjaZbaVež\obj\Debug\NemanjaZbaVež.csproj.AssemblyReference.cache
+C:\Users\veljko\source\repos\NemanjaZbaVež\NemanjaZbaVež\obj\Debug\NemanjaZbaVež.csproj.CoreCompileInputs.cache
+C:\Users\veljko\source\repos\NemanjaZbaVež\NemanjaZbaVež\obj\Debug\NemanjaZbaVež.exe
+C:\Users\veljko\source\repos\NemanjaZbaVež\NemanjaZbaVež\obj\Debug\NemanjaZbaVež.pdb
