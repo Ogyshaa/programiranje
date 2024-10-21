@@ -78,6 +78,8 @@ namespace Racun
         public virtual void Prikazi()
         {
             Console.WriteLine($"Sifra: {sifra}, Naziv: {naziv}, Cena: {cena} RSD, Količina: {kolicina} {jedMere}");
+            // Drugi nacin
+            //Console.WriteLine("Sifra:" + sifra+", " ...
         }
     }
 
@@ -109,6 +111,8 @@ namespace Racun
         public override void Prikazi()
         {
             Console.WriteLine($"Sifra: {Sifra}, Naziv: {Naziv}, Cena sa akcizom: {Cena} RSD, Akciza: {akciza} RSD, Količina: {Kolicina} {JedMere}");
+            // Drugi nacin
+            //Console.WriteLine("Sifra:" + Sifra+", " ...
         }
     }
 }
