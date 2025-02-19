@@ -1,0 +1,67 @@
+/Nasledjivanje/
+Inheratance 
+
+Omogucava kreiranje nove klase u kojoj se ponovo koristi,
+prosiruje, menja ponasanje def u nekoj prethodno napisanoj 
+klasi
+
+Klasa ciji se clanovi nasledjuju osnovna/bazna/roditeljsaka klasa
+a klasa koja nasljeduje te clanove naziva se izvedena
+
+Izvedena klasa moze imati samo jednu osnovnu baznu klasu,a ali 
+istovremeno moze implementirati i 1 ili vise interface-a
+
+Nasledivanje je tranzitivno - npr ako je klasa c izverdena iz b, a b iz a onda klasa c
+nasledjuje clanove deklrisane i u a i b
+
+U izvedenoj klasi mogu biti nasledjeni clanovi osnovne 
+ili banzne klase oznaceni sa public ili protected 
+OSIM KONSTRUKTORA I DESTRUKTORA
+
+!!!Poseldica!!!
+
+-Ako se definise konstruktor u osnovnoj klasi ili baznoj klasi
+ MORA SE DEFINISATI KONSTRUKTOR I U IZVEDENOJ KLASI
+
+Ako je potrebno u okviru konsturktora izvedene klase izvrsiti
+konstruktor iz osnovne klase to se radi eksplicitnim pozivom pomocu 
+reci BASE.
+
+---Promena metode u izvedenoj klasi---
+
+Da bi ovo bilo moguce neophodno je:
+1) Deklaracije metode u osnovnoj i izvedenoj klasi indenticna 
+2) U osnovnoj klasi ispred naziva metode dodaje se sluzbena rec
+VIRTUAL, a u izvedenoj OVERRIDE
+
+***Zapecacene klase ili metode***
+
+U koliko zelimo da sprecimo nasledjivanje iz neke klase nju oznacavamo
+kao zapecacenu. 
+
+sealed public class Class{
+
+}
+
+Takodje ako zelimo da sprecimo gazeneje neke metode u 
+izvedenoj kalasi
+
+sealed public Method(){
+
+}
+
+...Abstraktne klase i metode...
+
+Koristi se kljucna rec ABSTRACT kojim se moze oznaciti bilo koja 
+metoda  klase koja nece imati  
+
+U koliko je baar 1 clan klase abstractan mora se i cele klase oznaciti ovom recju
+
+NAPOMENE:
+
+1. ne mogu se kreirati objekti abstraktne klase 
+2. konstruktor nemoze biti abstraktan 
+3. abstraktne metode iz osnovne klase moraju se pregaziti metodama
+u izvedenim klasama koje sadrze kod 
+4. abstraktna klasa se mogu koristiti za nasledjivanje novih klasa
+
