@@ -1,0 +1,10 @@
+C:\Users\3-1\source\repos\Figura\Figura\bin\Debug\Figura.exe.config
+C:\Users\3-1\source\repos\Figura\Figura\bin\Debug\Figura.exe
+C:\Users\3-1\source\repos\Figura\Figura\bin\Debug\Figura.pdb
+C:\Users\3-1\source\repos\Figura\Figura\obj\Debug\Figura.csprojAssemblyReference.cache
+C:\Users\3-1\source\repos\Figura\Figura\obj\Debug\Figura.Form1.resources
+C:\Users\3-1\source\repos\Figura\Figura\obj\Debug\Figura.Properties.Resources.resources
+C:\Users\3-1\source\repos\Figura\Figura\obj\Debug\Figura.csproj.GenerateResource.cache
+C:\Users\3-1\source\repos\Figura\Figura\obj\Debug\Figura.csproj.CoreCompileInputs.cache
+C:\Users\3-1\source\repos\Figura\Figura\obj\Debug\Figura.exe
+C:\Users\3-1\source\repos\Figura\Figura\obj\Debug\Figura.pdb

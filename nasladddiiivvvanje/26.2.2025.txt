@@ -1,0 +1,7 @@
+1. napisati osnovnu klasu Figura koja ima podatke clanove dva realna broja koji ce biti nasledjeni u izvedenoj klasi
+klasa ima abstraktne metoode obim i povrsina bez argumenata koji kao rezultat vracaju realan broj 
+
+Napisati klasu Pravougaonik, koja je izvedena iz klase Figura 
+
+Napisati Windows aplikaciju koja omogucava unos stranica pravougaonika, kreiranje objekta, izracunavanje i prikazivanje O i P
+
