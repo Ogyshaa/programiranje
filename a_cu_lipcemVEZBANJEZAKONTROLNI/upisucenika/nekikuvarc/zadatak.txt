@@ -1,0 +1,19 @@
+---zadatak---
+Napisati abstract class-u osoba koja ima clanove :
+ime, prezime string 
+i metodu prosek cije je rezultat real, a kao argument ima listu celih
+br
+NAPisati interface Iupis koji ima javno svojstvo granica real
+metodu upis koja kao argument ima jedan real num rez je ceo
+
+Napisati class Ucenik koja je izvedena iz class Osoba i implemantira
+interface Iupis 
+
+Metoda prosek izracunava prosecnu ocenu ucenika
+Metoda upis kao prametar dobija prosecnu ocenu ucenika  * 10 
+i uvecanu za 50 kao rez vraca 1 ako je tavrednost <= od granice
+i oznacava da je ucenik upisan na fakultet na teret budzeta 
+u suprotnom rez je 0 (Samofinansirajuc)
+
+napisati win form app koji omogucava unos ocena ucenika u listu
+za davanje granicne vrednosti za upis i pokusaj upisa na fakultet
