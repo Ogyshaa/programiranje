@@ -1,0 +1,15 @@
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\bin\Debug\isplata_zarada.exe.config
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\bin\Debug\isplata_zarada.exe
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\bin\Debug\isplata_zarada.pdb
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\bin\Debug\ClassLibrary1.dll
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\bin\Debug\Utility1.dll
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\bin\Debug\ClassLibrary1.pdb
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\bin\Debug\Utility1.pdb
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\obj\Debug\isplata_zarada.csprojAssemblyReference.cache
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\obj\Debug\isplata_zarada.Properties.Resources.resources
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\obj\Debug\isplata_zarada.csproj.GenerateResource.cache
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\obj\Debug\isplata_zarada.csproj.CoreCompileInputs.cache
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\obj\Debug\isplata_zarada.csproj.CopyComplete
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\obj\Debug\isplata_zarada.exe
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\obj\Debug\isplata_zarada.pdb
+D:\Ognjen Radojkovic\isplata_zarada\isplata_zarada\obj\Debug\isplata_zarada.Form1.resources

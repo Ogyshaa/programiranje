@@ -1,0 +1,30 @@
+zadataka 
+
+Napisa ti apstraktnu klasu osoba koja ima clanove
+sifra int
+ime prezime string
+ziro racun string
+i metode racunaj platu void koja ima arugmente 2 int broja
+koji predstavljaju br radnih sati i vrednost sata
+i druga metoda string prikazipodatke koja kao rez vraca 
+
+string koji sadrzi sve podatke napisati interface banka koji ima javno svojstovo
+stanje tipa int 
+metode uplata void koja ima argumente iznos int i ziro racun string
+i metodu isplata int koja ima iste argumente kao i metoda uplata
+
+napisati dll koja ima metodu racunaj porez int i argumente iznos int, procenat int
+
+iz klase osoba izvedena je klasa zaposleni koja ima dodatna polja br sati, vrednost sata, zarada,
+stanje na racunu sve je int, ova klasa implementira interface banka
+
+napisati win form app koja omogucava unos podataka o zaposlenima i njihovo prikazivanje u kontroli list box
+mateoda racunaj platu (brsati * vrednost sata) upisuje u podatak clan zarada nakon cega se poziva metoda
+uplata koja povecava stanje za izracunatu zaradu - porez
+
+metoda isplata uzima sa stanje zahtevani iznos (ako je moguce) i umanju stanje za taj iznos
+na formi postoji komandno dugme obracun koje racuna platu za sve zaposlen iz liste 
+i komandno dugme isplata pomocu koga se zahteva isplata odgovarajuceg iznosa za radnika 
+koji je selektovan u list boxu, prikazati iznos u label-s
+
+na formi postoji label u kojoj se prikazuje ukupno isplaceni iznos za sve zaposlene
