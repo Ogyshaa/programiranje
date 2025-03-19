@@ -1,0 +1,20 @@
+---POLIMORFIZAM---
+
+Moguc samo izmedju klasas kod kojih postoji nasledjivanje .
+Predstavlja osobinu da pregazene metode izvedenih kalasa mogu 
+biti pozvane na izvrsenje gde god se ocekuje objekat bazne ili
+osnoven klasae('Ucenik je osoba') obrnuto ne vazi.
+
+Za utvrdjivanje tipa objekat ako je to potrebno moug se koristiti
+operatori IS i AS
+
+ZADATAK
+
+Napisati osnovu klasu figura koja ima podatak clan dimenzija
+i virtualnu metodu CrtajFiguru. Iz ove klase izvedena je 
+kalsa krug i klasa kvadrat.
+
+Napisati win form app koji omogucava korisniku da unese 
+dimenziju u textbox a zatim klikom na komandno dugme 
+gnerise slucajna broj 1 ili 2 (1 krug, 2 kvadrat).
+Nakon toga na ekranu se iscrtava odogvarjuca slika.
