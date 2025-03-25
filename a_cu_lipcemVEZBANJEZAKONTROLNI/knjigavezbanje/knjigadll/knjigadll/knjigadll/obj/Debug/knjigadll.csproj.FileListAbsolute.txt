@@ -1,0 +1,6 @@
+E:\Marin\knjigadll\knjigadll\bin\Debug\knjigadll.dll
+E:\Marin\knjigadll\knjigadll\bin\Debug\knjigadll.pdb
+E:\Marin\knjigadll\knjigadll\obj\Debug\knjigadll.csprojAssemblyReference.cache
+E:\Marin\knjigadll\knjigadll\obj\Debug\knjigadll.csproj.CoreCompileInputs.cache
+E:\Marin\knjigadll\knjigadll\obj\Debug\knjigadll.dll
+E:\Marin\knjigadll\knjigadll\obj\Debug\knjigadll.pdb
