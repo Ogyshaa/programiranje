@@ -1,0 +1,17 @@
+1.Napisati klasu ucenik koja ima podatke:
+ime i prezime string
+broj poena double
+Metodu pirkazi podatke string koja prikazuje podatke o uceniku
+2.Iz klase ucenik izvedena je klasa kandidat koja nasledjuje 
+sve clanove klse ucenik ima dodatni podatak:
+sifra fakulteta int 
+i metodu Pirikazi gazi osnovne podatke i prikazuje podatke o kandidatu
+3.napisati interface ranglista koji ima metodu spisak sa arugmentima 
+br koandidata i sifra fakulteta int, a kao rezultat vraca lisut kandidata 
+sortiranu po br poena u opadajucem redu
+4. Napisati dinamicuku bilioteku dll koja ima metodu 
+za sortiranje liste kandidata 
+5. Napisati win form app koji omogucava unos podataka o kandidatima 
+i njihovom prikazivanju u okviru listbox-a, unos br pirmljenih kandidata
+i sifre fakulteta komandno dugme spisak, i listboxu u kome se prikzauju 
+podaci o primljenim kandidatima
