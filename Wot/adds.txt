@@ -1,0 +1,4 @@
+na skavi otkucaj tajmera iscrtava se na slucajno izabranoj poziciji na formi krug 
+Korisnik pokusava kliknem misem unutar kruga i ukoliko uspe takav dogadjaj predstavlja 
+pogodak i br pogodaka se povecava za 1. Nakon toga smanju je precnik kruga io interval tajmera.
+Igra traje 30s nakon cega se ispisuje rezultat. Pocetno vreme 200-300ms

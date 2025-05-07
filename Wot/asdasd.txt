@@ -1,0 +1,13 @@
+***Programsko generisanje kontrola na formi***
+
+Programsko Postavljanje kontrole na formu obuhvata sledece 
+1.pravljenje objekta kontrole pomocu podrazumeveanog konsturtora za tu kotrolu 
+2. dodela vrednosti svojstvima objekta (location, size, name, enable, visible, tab index)
+3.dodati delegat za dogadjaje ukoliko je to potrebno 
+4.dodavanjne objekta kontrole u kolekciju controls
+
+----
+
+napisati program koji prilikom startovanja kreira na formi komandno dugme 
+klikom na komandno dugme otvara se nova forma na kojoj se programski generisu
+txtboxovi za unos korisnickog imena i passworda i komando dugme ok.

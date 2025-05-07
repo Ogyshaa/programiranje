@@ -1,0 +1,10 @@
+D:\Ognjen Radojkovic\Wot\qwer\qwer\bin\Debug\qwer.exe.config
+D:\Ognjen Radojkovic\Wot\qwer\qwer\bin\Debug\qwer.exe
+D:\Ognjen Radojkovic\Wot\qwer\qwer\bin\Debug\qwer.pdb
+D:\Ognjen Radojkovic\Wot\qwer\qwer\obj\Debug\qwer.csprojAssemblyReference.cache
+D:\Ognjen Radojkovic\Wot\qwer\qwer\obj\Debug\qwer.Form1.resources
+D:\Ognjen Radojkovic\Wot\qwer\qwer\obj\Debug\qwer.Properties.Resources.resources
+D:\Ognjen Radojkovic\Wot\qwer\qwer\obj\Debug\qwer.csproj.GenerateResource.cache
+D:\Ognjen Radojkovic\Wot\qwer\qwer\obj\Debug\qwer.csproj.CoreCompileInputs.cache
+D:\Ognjen Radojkovic\Wot\qwer\qwer\obj\Debug\qwer.exe
+D:\Ognjen Radojkovic\Wot\qwer\qwer\obj\Debug\qwer.pdb
