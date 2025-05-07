@@ -1,0 +1,28 @@
+***Dogadjaji - events***
+
+Omogucava nekom objektu da obavesit ostale objekte u sisitem da se nesto desilo, da je
+doslo do nekog dogadjaja. Dogadjaji su specijalna vrsta delegata i mogu se pisati
+sopstveni dogadjaji i metode koje obradjuju te dogadjaje. Deo koda koji obradjuje te dogadjaje poznat
+je pod nazivom EventArgs
+
+---Deklasrisanje dogadjaja
+
+vidljivost event naziv klase dlegate naziv dogadjaja on clikc
+
+potrbno je da napisemo klasu koja je izvdene iz klase System.EventArgs i da u njoj opisemo 
+svojstVA DOGADJAJA 
+
+Klasa delegat koja se koristi sa dogadjajima mora da bude takva da rezultat bude tipa void i ima 2 
+argumenta od kojih je 1. tipa object (predstavlja objekat koji je podigao dogadjaj), a drugi je 
+objekat prethodno opisane klase izvedena iz EventArgs
+
+---------------------------------------------------------
+
+Napisati klasu ucenik koja ima podatke cele brojeve koji predstavljau ocene
+na maturskom ispitu(srpski jezik, test, praktican rad) i odgovarajuca svojstva 
+
+Napisati win form app koji omogucava unos ocena u odgovrajuce txtbox na formi
+i podizanje dogadjaja koji prikazuje odgovarajucu poruku kada neka od ocena 
+dobije vrednost 1 
+
+

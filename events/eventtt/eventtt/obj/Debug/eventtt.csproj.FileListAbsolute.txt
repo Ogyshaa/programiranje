@@ -1,0 +1,10 @@
+D:\Ognjen Radojkovic\events\eventtt\eventtt\bin\Debug\eventtt.exe.config
+D:\Ognjen Radojkovic\events\eventtt\eventtt\bin\Debug\eventtt.exe
+D:\Ognjen Radojkovic\events\eventtt\eventtt\bin\Debug\eventtt.pdb
+D:\Ognjen Radojkovic\events\eventtt\eventtt\obj\Debug\eventtt.csprojAssemblyReference.cache
+D:\Ognjen Radojkovic\events\eventtt\eventtt\obj\Debug\eventtt.Form1.resources
+D:\Ognjen Radojkovic\events\eventtt\eventtt\obj\Debug\eventtt.Properties.Resources.resources
+D:\Ognjen Radojkovic\events\eventtt\eventtt\obj\Debug\eventtt.csproj.GenerateResource.cache
+D:\Ognjen Radojkovic\events\eventtt\eventtt\obj\Debug\eventtt.csproj.CoreCompileInputs.cache
+D:\Ognjen Radojkovic\events\eventtt\eventtt\obj\Debug\eventtt.exe
+D:\Ognjen Radojkovic\events\eventtt\eventtt\obj\Debug\eventtt.pdb
