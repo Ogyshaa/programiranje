@@ -1,0 +1,7 @@
+prilikom startovanja programa, u levom gornjem uglu formitra se grupa od tri radio dugmeta
+za izbor boje pozadine forme, takodje na formi se pojavljuje listbox koji sadrzi imena korisnika
+programa. selektovanje stavke list boxa otvara se nova forma na kojoj postoji text box za unos pasvorda i komandno dugme OK. 
+klikom na komandno dugme cita se sadrzaj tekstualnog fajla login.txt
+koji u svakom neparnom redu sadrzi korisnicko ime, a u parnom pasvord.
+Ukoliko je logovanje uspesno zatvara se forma 2 i na formi jedan u naslovnoj liniji ispisuje se
+pozdravna poruka (HELLO taj i taj).
