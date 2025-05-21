@@ -1,0 +1,11 @@
+D:\Ognjen Radojkovic\21.5.25\21.5.25\bin\Debug\21.5.25.exe.config
+D:\Ognjen Radojkovic\21.5.25\21.5.25\bin\Debug\21.5.25.exe
+D:\Ognjen Radojkovic\21.5.25\21.5.25\bin\Debug\21.5.25.pdb
+D:\Ognjen Radojkovic\21.5.25\21.5.25\obj\Debug\21.5.25.csprojAssemblyReference.cache
+D:\Ognjen Radojkovic\21.5.25\21.5.25\obj\Debug\_21._5._25.Form1.resources
+D:\Ognjen Radojkovic\21.5.25\21.5.25\obj\Debug\_21._5._25.Properties.Resources.resources
+D:\Ognjen Radojkovic\21.5.25\21.5.25\obj\Debug\21.5.25.csproj.GenerateResource.cache
+D:\Ognjen Radojkovic\21.5.25\21.5.25\obj\Debug\21.5.25.csproj.CoreCompileInputs.cache
+D:\Ognjen Radojkovic\21.5.25\21.5.25\obj\Debug\21.5.25.exe
+D:\Ognjen Radojkovic\21.5.25\21.5.25\obj\Debug\21.5.25.pdb
+D:\Ognjen Radojkovic\21.5.25\21.5.25\obj\Debug\_21._5._25.Form2.resources

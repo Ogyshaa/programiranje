@@ -1,0 +1,7 @@
+prilikom pokretanja program na formi se genrisu dva list boca i jedno dugme.
+Prvi listboc popunjaava se sadzajem txr gajla tako sto svaki red preddstavlja jednu stavku u listbox
+Svaka selectovana stavka iz prvog lb upisuje se u drugi klikom na dugme otvara se nova forma 
+na kojoj je takodj generisan listbox koji je popunjen ne izabranim stavkama iz prvog list boxa
+Selectovanjem stavke vrsi se njeno brisanje iz listboxa prilikom zatvaranja forme
+sadrzaj listvox se upsiuje u txt file.
+
