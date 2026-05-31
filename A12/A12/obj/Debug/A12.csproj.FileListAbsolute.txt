@@ -1,0 +1,13 @@
+C:\Users\anjam\source\repos\A12\A12\bin\Debug\A12.exe.config
+C:\Users\anjam\source\repos\A12\A12\bin\Debug\A12.exe
+C:\Users\anjam\source\repos\A12\A12\bin\Debug\A12.pdb
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.csproj.AssemblyReference.cache
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.Form1.resources
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.Form2.resources
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.Pretraga.resources
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.Properties.Resources.resources
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.csproj.GenerateResource.cache
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.csproj.CoreCompileInputs.cache
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.exe
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.pdb
+C:\Users\anjam\source\repos\A12\A12\obj\Debug\A12.exe.config
